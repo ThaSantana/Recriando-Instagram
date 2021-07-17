@@ -1,0 +1,84 @@
+.inicio{
+    display: flex;
+}
+
+.meio{
+    display:inline-flex;
+    margin-left: 400px;
+    width: 600px;
+    
+}
+.meio p{
+    text-align: center;
+}
+.app p{
+    margin-left: 500px;
+}
+.app ul li{
+    display: inline-block;
+   
+}
+.app ul li img{
+    width: 100px;
+   display: flex;
+}
+.app fieldset{
+    width: 245px;
+    margin-left:400px;
+}
+.app ul li{
+    align-items: center;
+    border:none;
+}
+.inicio p{
+    text-align: center;
+    color:gray;
+}
+.inicio form fieldset button p{
+    text-align: center;
+
+}
+.inicio input{
+    position: center;
+    margin-left: 50px;
+    margin-top: 5px;
+    height: 30px;
+    width: 200px;
+}
+.inicio1 p {
+    color: rgb(64, 64, 252);
+margin-right: 40px;}
+.botao p b{
+    text-align: center;
+    color:white;
+}
+body{
+    display:inline-table;
+    margin: 50px;
+    margin-left: 400px;
+}
+.inicio form fieldset{
+    width: 300px;
+    height: 400px;
+}
+.app form fieldset{
+    width: 300px;
+}
+.meio form fieldset{
+    width: 300px;
+}
+.inicio form fieldset img{
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.inicio1 p img{
+    margin-left:40px;
+}
+.botao button{
+    background-color: rgb(168, 202, 247);
+    border:none;
+    height: 30px;
+}
+.botao{
+    background-color: rgb(168, 202, 247);
+}
